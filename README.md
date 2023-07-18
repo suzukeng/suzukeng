@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 - I'm a first-year master's student at Waseda University.
 - I am interested in being a front-end development.
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suzukeng&theme=default)
