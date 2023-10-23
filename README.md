@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 - I'm a first-year master's student at Waseda University.
 - I am interested in being a front-end development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzukeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=suzukeng&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzukeng&layout=compact&show_icons=true&theme=vue" />
+</p>
