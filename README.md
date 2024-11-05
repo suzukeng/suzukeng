@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a first-year master's student at Waseda University.
-- I am interested in being a front-end development.
+- I'm a second-year master's student at Waseda University.
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=suzukeng&show_icons=ture&theme=vue" />
